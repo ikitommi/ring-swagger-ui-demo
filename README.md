@@ -59,6 +59,9 @@ swagger-ui/o2c.html
 swagger-ui/swagger-ui.js
 swagger-ui/swagger-ui.min.js
 ```
+
+![](https://raw.githubusercontent.com/ikitommi/ring-swagger-ui-demo/master/pics/ui.png)
+
 ## Usage
 
 ### Run the application locally
